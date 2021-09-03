@@ -9,7 +9,7 @@
  * isPalindrome('.x 1-1 x.') === true
  */
 
-function isPalindromeSimpleStringReversal(str) {
+function isPalindrome(str) {
   /**
    * Turns the string into an array
    * reverses it and joins all elements back

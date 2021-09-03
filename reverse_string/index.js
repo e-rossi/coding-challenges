@@ -6,7 +6,7 @@
  * reverse('The quick brown fox jumps over the lazy dog!') === '!god yzal eht revo spmuj xof nworb kciuq ehT'
  * */
 
-function reverseWithArray(str) {
+function reverse(str) {
   /**
    * Turns the string into an array,
    * reverses it using JS builtin method and
